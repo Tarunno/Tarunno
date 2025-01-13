@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Mahadi! How's going?</h1>
 <p>Experienced Software Engineer with expertise in Django, Python, and AI technologies, along with frontend development using React and JavaScript. Proficient in NGINX, Azure, Kubernetes, Docker, Embedded Systems. Currently expanding knowledge in Lua, and Golang.</p>
-<img src="cover-min.png"/>
+<img src="cover-min.jpg"/>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
